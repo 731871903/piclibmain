@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="406427f4-8e92-4aa6-a05c-901bfc307b1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kapdedCx720EEX79gM0ecjq2vy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaForHaConfig">
+    <configuration name="BaseMicroserviceConfig1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="base-microservice-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.config.BaseMicroserviceConfig1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseMicroserviceConfig2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="base-microservice-config2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.config.BaseMicroserviceConfig2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseMicroserviceConfig3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="base-microservice-config3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.config.BaseMicroserviceConfig3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="base-microservice-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.app.DashBoardApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaForHaConfig" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-for-ha-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.EurekaForHaConfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="base-microservice-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.app.TurbineApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="base-microservice-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yc.zuul.ZuulApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="406427f4-8e92-4aa6-a05c-901bfc307b1d" name="Default Changelist" comment="" />
+      <created>1605948651752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605948651752</updated>
+      <workItem from="1605948653562" duration="1294000" />
+      <workItem from="1605950142028" duration="593000" />
+      <workItem from="1606037624343" duration="2399000" />
+      <workItem from="1606386902850" duration="604000" />
+      <workItem from="1606387610864" duration="1230000" />
+      <workItem from="1606542152421" duration="639000" />
+      <workItem from="1606570356346" duration="1524000" />
+      <workItem from="1606651277971" duration="1492000" />
+      <workItem from="1606657047070" duration="32000" />
+      <workItem from="1606907319708" duration="358000" />
+      <workItem from="1606909300191" duration="56000" />
+      <workItem from="1606998035675" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="578" key="GridCell.Tab.0.bottom" timestamp="1606387506389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606387506389" />
+    <state width="1493" height="578" key="GridCell.Tab.0.center" timestamp="1606387506388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1606387506388" />
+    <state width="1493" height="578" key="GridCell.Tab.0.left" timestamp="1606387506388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1606387506388" />
+    <state width="1493" height="578" key="GridCell.Tab.0.right" timestamp="1606387506388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1606387506388" />
+    <state width="1493" height="578" key="GridCell.Tab.1.bottom" timestamp="1606387506390">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1606387506390" />
+    <state width="1493" height="578" key="GridCell.Tab.1.center" timestamp="1606387506389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1606387506389" />
+    <state width="1493" height="578" key="GridCell.Tab.1.left" timestamp="1606387506389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1606387506389" />
+    <state width="1493" height="578" key="GridCell.Tab.1.right" timestamp="1606387506389">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="578" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1606387506389" />
+  </component>
+</project>
